@@ -7,3 +7,6 @@ int main() {
     cout << "You entered: " << str << endl;
     return 0;
 }
+output
+Enter a string: Hello
+You entered: Hello
